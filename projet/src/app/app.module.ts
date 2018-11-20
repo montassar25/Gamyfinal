@@ -3,24 +3,42 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent} from './header/header.component';
-import { InscriptionComponent } from './inscription/inscription.component';
+
 import { DescriptionComponent } from './description/description.component';
 import {FormsModule} from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import {enableProdMode} from '@angular/core';
+import {CarouselModule} from 'angular2-carousel';
+import {Ng2CarouselamosModule} from 'ng2-carouselamos';
+import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
+import { ListliveComponent } from './listlive/listlive.component';
+import { PaginationComponent } from './pagination/pagination.component';
+import { FooterComponent } from './footer/footer.component';
+
+
 enableProdMode();
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    InscriptionComponent,
+
     DescriptionComponent,
+
+    ListliveComponent,
+
+    PaginationComponent,
+
+    FooterComponent,
   ],
   imports: [
+    NgbModule,
+    CarouselModule,
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    HttpClientModule
+    HttpClientModule,
+    Ng2CarouselamosModule,
+
   ],
 
   providers: [],

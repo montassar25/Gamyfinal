@@ -28,7 +28,6 @@
               "src/styles.css"
             ],
             "scripts": [
-
               "../node_modules/bootstrap/dist/js/bootstrap.js",
               "./node_modules/angular-font-awesome/dist/angular-font-awesome.js"
             ]
@@ -91,6 +90,7 @@
             ],
             "scripts": [
 
+              "../node_modules/jquery/dist/jquery.min.js",
               "../node_modules/bootstrap/dist/js/bootstrap.min.js",
               "./node_modules/angular-font-awesome/dist/angular-font-awesome.js"
             ],

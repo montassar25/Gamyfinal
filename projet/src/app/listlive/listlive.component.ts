@@ -1,10 +1,13 @@
-import {Component} from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import {NgbModal, ModalDismissReasons} from '@ng-bootstrap/ng-bootstrap';
+
 @Component({
-  selector: 'app-header',
-  templateUrl: './header.component.html',
+  selector: 'app-listlive',
+  templateUrl: './listlive.component.html',
+  styleUrls: ['./listlive.component.css']
 })
-export class HeaderComponent {
+export class ListliveComponent  {
+
   closeResult: string;
 
   constructor(private modalService: NgbModal) {}
@@ -26,4 +29,5 @@ export class HeaderComponent {
       return  `with: ${reason}`;
     }
   }
+
 }

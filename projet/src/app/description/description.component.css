@@ -36,4 +36,18 @@
   display: block;
   width: 100%;
 }
-
+.item-carousel div,
+.item-carousel img{
+  height: 100%;
+  width: 100%;
+}
+.item-carousel div{
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
