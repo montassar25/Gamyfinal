@@ -44,27 +44,6 @@
       <change afterPath="$PROJECT_DIR$/projet/src/tsconfig.spec.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/projet/tsconfig.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/projet/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/projet/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/projet/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/projet/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projet/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projet/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projet/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/app/description/description.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/projet/src/app/description/description.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/app/description/description.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projet/src/app/description/description.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/app/description/description.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/app/description/description.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projet/src/app/description/description.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projet/src/app/header/header.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/app/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projet/src/app/header/header.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/app/inscription/inscription.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/app/inscription/inscription.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/app/inscription/inscription.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/app/inscription/inscription.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/app/partager/data.storage.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projet/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/src/tslint.json" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -101,32 +80,32 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="16" />
-          <entry key="html" value="38" />
+          <entry key="css" value="20" />
+          <entry key="html" value="40" />
           <entry key="ico" value="2" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="5" />
           <entry key="js" value="8" />
           <entry key="json" value="16" />
           <entry key="png" value="6" />
-          <entry key="ts" value="58" />
+          <entry key="ts" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="16" />
-          <entry key="HTML" value="38" />
+          <entry key="CSS" value="20" />
+          <entry key="HTML" value="40" />
           <entry key="Image" value="14" />
           <entry key="JSON" value="13" />
           <entry key="JavaScript" value="8" />
-          <entry key="TypeScript" value="58" />
+          <entry key="TypeScript" value="61" />
           <entry key="tsconfig" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="129" />
-          <entry key="html" value="3251" />
+          <entry key="html" value="3303" />
           <entry key="json" value="164" />
           <entry key="ts" value="1224" />
         </counts>
@@ -134,7 +113,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="129" />
-          <entry key="HTML" value="3251" />
+          <entry key="HTML" value="3303" />
           <entry key="JSON" value="164" />
           <entry key="TypeScript" value="1224" />
         </counts>
@@ -154,33 +133,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projet/src/app/app.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projet/src/app/app.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projet/src/app/footer/footer.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projet/src/app/pagination/pagination.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -192,21 +144,71 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projet/src/app/header/header.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="127" selection-start-line="2" selection-start-column="127" selection-end-line="2" selection-end-column="127" />
+            <state relative-caret-position="102">
+              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#nav#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#4;n#form#0;n#div#1;n#ng-template#0;n#form#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projet/src/app/pagination/pagination.component.ts">
+        <entry file="file://$PROJECT_DIR$/projet/src/app/header/login/login.component.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projet/src/app/header/inscription/inscription.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projet/src/app/header/inscription/inscription.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="57" column="97" selection-start-line="57" selection-start-column="97" selection-end-line="57" selection-end-column="97" />
+              <folding>
+                <element signature="e#260#267#1" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#form#0;n#div#1;n#ng-template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#form#0;n#div#1;n#ng-template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#1;n#ng-template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#2;n#form#0;n#div#1;n#ng-template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#div#2;n#form#0;n#div#1;n#ng-template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#3;n#form#0;n#div#1;n#ng-template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#4;n#form#0;n#div#1;n#ng-template#0;n#!!top" expanded="true" />
+                <element signature="e#2218#2224#0" expanded="true" />
+                <element signature="e#2224#2230#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projet/src/app/header/inscription/inscription.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-65">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projet/src/app/header/login/login.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -214,8 +216,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projet/src/app/header/header.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="170">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -223,39 +225,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projet/src/app/listlive/listlive.component.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projet/src/app/header/login/login.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="19" column="54" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="54" />
-              <folding>
-                <element signature="e#386#393#1" expanded="true" />
-                <element signature="e#1679#1686#1" expanded="true" />
-                <element signature="e#2980#2987#1" expanded="true" />
-                <element signature="e#4281#4288#1" expanded="true" />
-                <element signature="e#5582#5589#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="12" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projet/src/app/listlive/listlive.component.css">
+        <entry file="file://$PROJECT_DIR$/projet/src/app/header/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projet/src/app/listlive/listlive.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
+            <state>
+              <caret selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -298,6 +281,9 @@
       <find>Dismiss</find>
       <find>pro</find>
       <find>Dismissed with: Cross click</find>
+      <find>sr</find>
+      <find>logi</find>
+      <find>for</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -321,7 +307,6 @@
         <option value="$PROJECT_DIR$/projet/angular.json" />
         <option value="$PROJECT_DIR$/projet/src/app/description/description.component.css" />
         <option value="$PROJECT_DIR$/projet/src/app/inscription/inscription.component.ts" />
-        <option value="$PROJECT_DIR$/projet/src/app/header/header.component.ts" />
         <option value="$PROJECT_DIR$/projet/src/app/inscription/inscription.component.html" />
         <option value="$PROJECT_DIR$/projet/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/projet/src/app/pagination/pagination.component.ts" />
@@ -330,10 +315,16 @@
         <option value="$PROJECT_DIR$/projet/src/app/pagination/pagination.component.html" />
         <option value="$PROJECT_DIR$/projet/src/app/footer/footer.component.html" />
         <option value="$PROJECT_DIR$/projet/src/app/description/description.component.ts" />
-        <option value="$PROJECT_DIR$/projet/src/app/header/header.component.html" />
         <option value="$PROJECT_DIR$/projet/src/app/listlive/listlive.component.ts" />
         <option value="$PROJECT_DIR$/projet/src/app/listlive/listlive.component.css" />
         <option value="$PROJECT_DIR$/projet/src/app/listlive/listlive.component.html" />
+        <option value="$PROJECT_DIR$/projet/src/app/header/inscription/inscription.component.css" />
+        <option value="$PROJECT_DIR$/projet/src/app/header/inscription/inscription.component.html" />
+        <option value="$PROJECT_DIR$/projet/src/app/header/login/login.component.css" />
+        <option value="$PROJECT_DIR$/projet/src/app/header/header.component.ts" />
+        <option value="$PROJECT_DIR$/projet/src/app/header/inscription/inscription.component.ts" />
+        <option value="$PROJECT_DIR$/projet/src/app/header/header.component.html" />
+        <option value="$PROJECT_DIR$/projet/src/app/header/login/login.component.html" />
       </list>
     </option>
   </component>
@@ -438,7 +429,8 @@
               <item name="projet" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="listlive" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+              <item name="inscription" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -507,12 +499,12 @@
       <workItem from="1542018661791" duration="656000" />
       <workItem from="1542660537229" duration="1757000" />
       <workItem from="1542662891319" duration="7750000" />
-      <workItem from="1542712866749" duration="6127000" />
+      <workItem from="1542712866749" duration="13693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130404000" />
+    <option name="totallyTimeSpent" value="137970000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -579,36 +571,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/tutoriel/tutoriel/src/app/recepies/recepies-list/recepies-list.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113" />
-      </provider>
-    </entry>
-    <entry file="file://C:/tutoriel/tutoriel/src/app/recepies/recepies-details/recepies-details.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/tutoriel/tutoriel/src/app/partager/ingredients.model.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/tutoriel/tutoriel/src/app/recepies/recepies.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/tutoriel/tutoriel/src/app/recepies/recepe.model.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet/src/app/service.ts" />
-    <entry file="file://$PROJECT_DIR$/projet/node_modules/rxjs/internal/observable/dom/AjaxObservable.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projet/src/app/inscription/inscription.component.spec.ts" />
     <entry file="file://$PROJECT_DIR$/projet/src/favicon.ico">
       <provider selected="true" editor-type-id="images" />
@@ -620,13 +582,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/projet/src/app/partager/data.storage.service.ts" />
-    <entry file="file://$PROJECT_DIR$/projet/src/app/header/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projet/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -770,41 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet/src/app/pagination/pagination.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet/src/app/pagination/pagination.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet/src/app/header/header.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="127" selection-start-line="2" selection-start-column="127" selection-end-line="2" selection-end-column="127" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#nav#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#4;n#form#0;n#div#1;n#ng-template#0;n#form#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet/src/app/header/header.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projet/src/app/listlive/listlive.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -832,6 +752,116 @@
             <element signature="e#2980#2987#1" expanded="true" />
             <element signature="e#4281#4288#1" expanded="true" />
             <element signature="e#5582#5589#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet/src/app/pagination/pagination.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet/src/app/pagination/pagination.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet/src/app/pagination/pagination.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet/src/app/header/login/login.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet/src/app/header/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet/src/app/header/inscription/inscription.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet/src/app/header/login/login.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet/src/app/header/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet/src/app/header/header.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet/src/app/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#nav#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet/src/app/header/login/login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet/src/app/header/inscription/inscription.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet/src/app/header/inscription/inscription.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="97" selection-start-line="57" selection-start-column="97" selection-end-line="57" selection-end-column="97" />
+          <folding>
+            <element signature="e#260#267#1" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#form#0;n#div#1;n#ng-template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#form#0;n#div#1;n#ng-template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#1;n#ng-template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#2;n#form#0;n#div#1;n#ng-template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#2;n#form#0;n#div#1;n#ng-template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#3;n#form#0;n#div#1;n#ng-template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#4;n#form#0;n#div#1;n#ng-template#0;n#!!top" expanded="true" />
+            <element signature="e#2218#2224#0" expanded="true" />
+            <element signature="e#2224#2230#0" expanded="true" />
           </folding>
         </state>
       </provider>

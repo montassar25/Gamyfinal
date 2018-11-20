@@ -14,6 +14,8 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { ListliveComponent } from './listlive/listlive.component';
 import { PaginationComponent } from './pagination/pagination.component';
 import { FooterComponent } from './footer/footer.component';
+import { LoginComponent } from './header/login/login.component';
+import { InscriptionComponent } from './header/inscription/inscription.component';
 
 
 enableProdMode();
@@ -29,6 +31,10 @@ enableProdMode();
     PaginationComponent,
 
     FooterComponent,
+
+    LoginComponent,
+
+    InscriptionComponent,
   ],
   imports: [
     NgbModule,
