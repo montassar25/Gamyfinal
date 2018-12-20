@@ -1,17 +1,18 @@
 import { Component, OnInit } from '@angular/core';
-import {ModalDismissReasons, NgbModal} from '@ng-bootstrap/ng-bootstrap';
-import {HttpClient, HttpClientModule} from '@angular/common/http';
+import {NgbModal, ModalDismissReasons} from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
-  selector: 'app-inscription',
-  templateUrl: './inscription.component.html',
-  styleUrls: ['./inscription.component.css']
+  selector: 'app-donneprofil',
+  templateUrl: './donneprofil.component.html',
+  styleUrls: ['./donneprofil.component.css']
 })
-export class InscriptionComponent  {
-  x: string;
+export class DonneprofilComponent implements OnInit {
+
+
+
   closeResult: string;
 
-  constructor(private modalService: NgbModal, private http: HttpClient) {}
+  constructor(private modalService: NgbModal) {}
 
   open(content) {
     this.modalService.open(content, {ariaLabelledBy: 'modal-basic-title'}).result.then((result) => {
@@ -31,10 +32,8 @@ export class InscriptionComponent  {
     }
   }
 
-  signup( http: HttpClientModule) {
-
-
-
+  ngOnInit(): void {
   }
+
 
 }

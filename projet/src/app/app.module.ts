@@ -16,6 +16,15 @@ import { PaginationComponent } from './pagination/pagination.component';
 import { FooterComponent } from './footer/footer.component';
 import { LoginComponent } from './header/login/login.component';
 import { InscriptionComponent } from './header/inscription/inscription.component';
+import { AcceuilComponent } from './acceuil/acceuil.component';
+import { ListamisComponent } from './acceuil/listamis/listamis.component';
+import { InformationprofilComponent } from './acceuil/informationprofil/informationprofil.component';
+import { DonneprofilComponent } from './acceuil/informationprofil/donneprofil/donneprofil.component';
+import { PhotoComponent } from './acceuil/informationprofil/photo/photo.component';
+import { StatutComponent } from './acceuil/statut/statut.component';
+import { FildactualiterComponent } from './acceuil/fildactualiter/fildactualiter.component';
+import { UserStatutComponent } from './acceuil/listamis/user-statut/user-statut.component';
+import { WelcomepageComponent } from './welcomepage/welcomepage.component';
 
 
 enableProdMode();
@@ -35,6 +44,24 @@ enableProdMode();
     LoginComponent,
 
     InscriptionComponent,
+
+    AcceuilComponent,
+
+    ListamisComponent,
+
+    InformationprofilComponent,
+
+    DonneprofilComponent,
+
+    PhotoComponent,
+
+    StatutComponent,
+
+    FildactualiterComponent,
+
+    UserStatutComponent,
+
+    WelcomepageComponent,
   ],
   imports: [
     NgbModule,

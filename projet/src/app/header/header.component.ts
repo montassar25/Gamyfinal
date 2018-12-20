@@ -7,6 +7,5 @@ import {NgbModal, ModalDismissReasons} from '@ng-bootstrap/ng-bootstrap';
 export class HeaderComponent {
   constructor() { }
 
-  ngOnInit() {
-  }
+
 }
